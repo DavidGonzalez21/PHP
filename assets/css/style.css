@@ -1,0 +1,18 @@
+.numbers-div {
+	margin-top: 5%;
+	margin-left: 5%;
+
+}
+
+.masthead {
+	display: flex;
+	align-items: center;
+	background-color: #292b2c;
+    width: 100%;
+    z-index: 1030;
+    color: white;
+    padding-bottom: 25px;
+}
+.masthead-brand{
+	margin-top: 15px;
+}
